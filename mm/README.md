@@ -1,19 +1,16 @@
 ![Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame/assets/104443436/2b9dbf70-faf3-49ab-886b-d88f50c5dbe0)
 
-Keeping track of companies that "care about your data 🥺"
-
-[Switch to Russian translation](ru/README.md)
-[Switch to Burmese translation](mm/README.md)
+"သုံးဆွဲသူဒေတာ‌တေကို ဂရုစိုက်ပါတယ်🥺" ဆိုတဲ့ကုမ္ပဏီများ
 
 ![Terrible](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/terrible.svg)
 [![License CC BY-NC-SA](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-SA-4.0.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
 
-## Why?
-Over the past few years, a suspicious number of companies have started to "take care of your data", aka block/strictly limit your ability to unlock the bootloader on your *own* devices.
+## ဘာကြောင့်လဲ?
+ပြီးခဲ့သောနှစ်အနည်းငယ်မှစပြီ ကုမ္ပဏီအများအပြားသည် သင်၏ *ကိုယ်ပိုင်* phone များတွင် bootloader ဖွင့်နည်းကို ပိတ်ဆိုခြင်း သိုမဟုတ် တင်းကျပ်စွာ ကန့်သတ်ခြင်း တိုပြုလုပ်လာပါသည်။
 
-While this may not affect you directly, it sets a bad precedent. You never know what will get the axe next: Shizuku? ADB? Sideloading? I thought it might be a good idea to keep track of bad companies and workarounds.
+၎င်းသည် သင့်အား တိုက်ရိုက်မထိခိုက်စေသော်လည်း ဧီအရာသည် ဆိုးရွားသောစံနမူနာ ဖြစ်သည်။ နောက်ဘာ‌ တေပိတ်မလဲ ကျနော်တိုဘယ်သိမလဲ။ Shizuku? ADB? Sideloading?။ မကောင်းတဲ့ ကုမ္ပဏီတွေကို ဧီနေရာတွင်‌ဖော် ပြထားချင်ဖြစ်ပါသည်။
 
-If you know of specific details/unlocking methods, please PR them or drop them in the [discussions](https://github.com/melontini/bootloader-unlock-wall-of-shame/discussions)
+အသေးစိတ်အချက်အလက်များ (သိုမဟုပ်) unlocking နည်းလမ်းများကို သင်သိပါက၊ ၎င်းတိုကို PR သိုမဟုတ် [discussions](https://github.com/melontini/bootloader-unlock-wall-of-shame/discussions) တွင် ထားပေးပါ။
 
 # The list:
 
